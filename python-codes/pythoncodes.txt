@@ -3,3 +3,4 @@ this is python codes valid after you can follow cmds
 python --version
 
 pip install pygame
+plugin are installed
