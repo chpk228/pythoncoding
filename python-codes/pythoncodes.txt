@@ -5,5 +5,6 @@ if simple excution
 this is python codes
 
 python --version
-
 pip install pygame plugin
+pip install pygame
+plugin are installed
